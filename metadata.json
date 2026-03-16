@@ -1,0 +1,5 @@
+{
+  "name": "DineDecide",
+  "description": "A smart decision assistant for groups to quickly choose a restaurant without the fatigue of endless scrolling.",
+  "requestFramePermissions": ["geolocation"]
+}
